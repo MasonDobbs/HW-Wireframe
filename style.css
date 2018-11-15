@@ -1,0 +1,117 @@
+body{
+    background-color: grey;
+}
+
+#Header{
+    height:18px;
+    width: auto;
+    color:grey;
+    background-color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+#Nav{
+height:18px;
+width:auto;
+color: grey;
+background-color: white;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+margin-left: 10%;
+padding: 20px;
+margin-right: 10%;
+}
+
+#Aside{
+height: 308px;
+width: 35%;
+color: grey;
+background-color: white;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+float: right;
+padding-top: 5%;
+font-size: 20px;
+margin-right: 10%;
+margin-top: 20px;
+}
+
+#Section{
+    height: 308px;
+    width: 43%;
+    color: grey;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    float: right;
+    padding-top: 5%;
+    font-size: 20px;
+    margin-left: 10%;
+    margin-top: 20px;
+   margin-right: 30px;
+}
+
+#Article{
+height: 175px;
+width: 40%;
+color:white;
+background-color: grey;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+padding-top: 5%;
+font-size: 20px;
+margin-left: 11.5%;
+margin-top: 130px;
+margin-bottom: 80px;
+position: absolute;
+}
+
+#Footer{
+    height:40px;
+width:auto;
+color: grey;
+background-color: white;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+margin-left: 10%;
+padding: 20px;
+margin-right: 10%;
+margin-top: 28%;
+padding-top: 3%;
+font-size: 20px;
+}
+
+#h1{
+    width: 35%;
+    height: 35px;
+    color: grey;
+    background-color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 14%;
+    position: absolute;
+    margin-top: -300px;
+    padding-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#p{
+    width: 35%;
+    height: 35px;
+    color: grey;
+    background-color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 14%;
+    position: absolute;
+    margin-top: -225px;
+    padding-top: 20px;
+    font-size: 20px;
+}
